@@ -41,10 +41,10 @@ Conference: ICTIR, SIGIR, EMNLP.
 
 Teaching
 ======
-1. Graduate Teaching Assistant
+Graduate Teaching Assistant
     - CS527: Database System for Data Science, Spring 2019.
     - CS550: Massive Data Mining, 2019 Spring.
-2. Undergraduate Teaching Assistant
+Undergraduate Teaching Assistant
     - CS213: Software Methodology, 2021 Spring.
     - CS111: Introduction to Computer Science, 2020 Summer.
     - CS439: Introduction to Data Science, Spring 2018.
