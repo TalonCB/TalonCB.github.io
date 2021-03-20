@@ -30,6 +30,7 @@ Publication
 - Pengfei Wang, **Hanxiong Chen**, Yadong Zhu, Huawei Shen and Yongfeng Zhang. "Unified Collaborative Filtering over Graph Embeddings." In *Proceedings of the 42nd International ACM SIGIR Conference on Research and Development in Information Retrieval (**SIGIR**)*, 2019.
 <br/>
 -->
+
 Academic Services
 ======
 Reviewer:       
