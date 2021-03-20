@@ -8,7 +8,7 @@ author_profile: true
 
 ## 2021     
 **Neural Collaborative Reasoning**       
-**Hanxiong Chen**, Shaoyun Shi, Yunqi Li, Yongfeng Zhang. In *Proceedings of the Web Conference (**WWW**)*, 2021.
+**Hanxiong Chen**, Shaoyun Shi, Yunqi Li, Yongfeng Zhang. In *Proceedings of the Web Conference (**WWW**)*, 2021.      
 
 **User-oriented Fairness in Recommendation**      
 Yunqi Li, **Hanxiong Chen**, Zuohui Fu, Yingqiang Ge, Yongfeng Zhang. In *Proceedings of the Web Conference (**WWW**)*, 2021.
@@ -25,11 +25,11 @@ Shaoyun Shi\*, **Hanxiong Chen\***, Weizhi Ma, Jiaxin Mao, Min Zhang and Yongfen
 
 **Personalized Fashion Recommendation with Visual Explanations based on Multimodal Attention Network**      
 Xu Chen, **Hanxiong Chen**, Hongteng Xu, Yongfeng Zhang, Yixin Cao, Hongyuan Zha and Zheng Qin. In *Proceedings of the 42nd International ACM SIGIR Conference on Research and Development in Information Retrieval (**SIGIR**)*, 2019.     
-[[paper]]()
+[[paper]](/files/chen-sigir2019.pdf)
 
 **Unified Collaborative Filtering over Graph Embeddings**      
 Pengfei Wang, **Hanxiong Chen**, Yadong Zhu, Huawei Shen and Yongfeng Zhang. In *Proceedings of the 42nd International ACM SIGIR Conference on Research and Development in Information Retrieval (**SIGIR**)*, 2019.      
-[[paper]]()
+[[paper]](/files/wang-sigir2019a.pdf)
 
 ## Workshops
 **MRC2021: The 1st International Workshop on Machine Reasoning**      
