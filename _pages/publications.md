@@ -4,6 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+(\* represents equal contribution)
 
 ## 2021     
 **Neural Collaborative Reasoning**       
