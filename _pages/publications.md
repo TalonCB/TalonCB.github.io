@@ -29,7 +29,7 @@ Pengfei Wang, **Hanxiong Chen**, Yadong Zhu, Huawei Shen and Yongfeng Zhang. In 
 
 ## Workshops
 **MRC2021: The 1st International Workshop on Machine Reasoning**      
-Yongfeng Zhang, Min Zhang, Hanxiong Chen, Xu Chen, Xianjie Chen, Chuang Gan, Tong Sun, Xin Luna Dong. In *Proceedings of the 14th ACM International Conference on Web Search and Data Mining (WSDM 2021), March 8 - 12, 2021, Jerusalem, Israel.*      
+Yongfeng Zhang, Min Zhang, Hanxiong Chen, Xu Chen, Xianjie Chen, Chuang Gan, Tong Sun, Xin Luna Dong. In *Proceedings of the 14th ACM International Conference on Web Search and Data Mining (WSDM 2021)*, March 8 - 12, 2021, Jerusalem, Israel.      
 [Homepage](https://mrc2021.github.io/)
 
 {% if author.googlescholar %}
