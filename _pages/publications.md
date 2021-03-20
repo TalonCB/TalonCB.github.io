@@ -20,13 +20,16 @@ Shaoyun Shi\*, **Hanxiong Chen\***, Weizhi Ma, Jiaxin Mao, Min Zhang and Yongfen
 
 ## 2019
 **Generate Natural Language Explanations for Recommendation**      
-**Hanxiong Chen**, Xu Chen, Shaoyun Shi and Yongfeng Zhang. In *Proceedings of the SIGIR 2019 Workshop on ExplainAble Recommendation and Search (**EARS**)*, 2019.
+**Hanxiong Chen**, Xu Chen, Shaoyun Shi and Yongfeng Zhang. In *Proceedings of the SIGIR 2019 Workshop on ExplainAble Recommendation and Search (**EARS**)*, 2019.      
+[[paper]](https://arxiv.org/pdf/2101.03392.pdf)
 
 **Personalized Fashion Recommendation with Visual Explanations based on Multimodal Attention Network**      
-Xu Chen, **Hanxiong Chen**, Hongteng Xu, Yongfeng Zhang, Yixin Cao, Hongyuan Zha and Zheng Qin. In *Proceedings of the 42nd International ACM SIGIR Conference on Research and Development in Information Retrieval (**SIGIR**)*, 2019.
+Xu Chen, **Hanxiong Chen**, Hongteng Xu, Yongfeng Zhang, Yixin Cao, Hongyuan Zha and Zheng Qin. In *Proceedings of the 42nd International ACM SIGIR Conference on Research and Development in Information Retrieval (**SIGIR**)*, 2019.     
+[[paper]]()
 
 **Unified Collaborative Filtering over Graph Embeddings**      
-Pengfei Wang, **Hanxiong Chen**, Yadong Zhu, Huawei Shen and Yongfeng Zhang. In *Proceedings of the 42nd International ACM SIGIR Conference on Research and Development in Information Retrieval (**SIGIR**)*, 2019.
+Pengfei Wang, **Hanxiong Chen**, Yadong Zhu, Huawei Shen and Yongfeng Zhang. In *Proceedings of the 42nd International ACM SIGIR Conference on Research and Development in Information Retrieval (**SIGIR**)*, 2019.      
+[[paper]]()
 
 ## Workshops
 **MRC2021: The 1st International Workshop on Machine Reasoning**      
