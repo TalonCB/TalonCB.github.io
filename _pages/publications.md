@@ -15,7 +15,7 @@ Yunqi Li, **Hanxiong Chen**, Zuohui Fu, Yingqiang Ge, Yongfeng Zhang. In *Procee
 ## 2020
 **Neural Logic Reasoning**      
 Shaoyun Shi\*, **Hanxiong Chen\***, Weizhi Ma, Jiaxin Mao, Min Zhang and Yongfeng Zhang. In *Proceedings of the 29th ACM International Conference on Information and Knowledge Management (**CIKM**)*, 2020.    
-[paper]()
+[paper](/files/Neural_Logic_Reasoning.pdf)
 
 ## 2019
 **Generate Natural Language Explanations for Recommendation**      
