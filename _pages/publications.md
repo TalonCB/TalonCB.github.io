@@ -5,8 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Preprints     
-
 ## 2021     
 **Neural Collaborative Reasoning**       
 **Hanxiong Chen**, Shaoyun Shi, Yunqi Li, Yongfeng Zhang. In *Proceedings of the Web Conference (**WWW**)*, 2021.
@@ -28,6 +26,11 @@ Xu Chen, **Hanxiong Chen**, Hongteng Xu, Yongfeng Zhang, Yixin Cao, Hongyuan Zha
 
 **Unified Collaborative Filtering over Graph Embeddings**      
 Pengfei Wang, **Hanxiong Chen**, Yadong Zhu, Huawei Shen and Yongfeng Zhang. In *Proceedings of the 42nd International ACM SIGIR Conference on Research and Development in Information Retrieval (**SIGIR**)*, 2019.
+
+## Workshops
+**MRC2021: The 1st International Workshop on Machine Reasoning**      
+Yongfeng Zhang, Min Zhang, Hanxiong Chen, Xu Chen, Xianjie Chen, Chuang Gan, Tong Sun, Xin Luna Dong. In *Proceedings of the 14th ACM International Conference on Web Search and Data Mining (WSDM 2021), March 8 - 12, 2021, Jerusalem, Israel.*      
+[Homepage](https://mrc2021.github.io/)
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
