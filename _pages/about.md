@@ -43,13 +43,13 @@ Teaching
 ======
 Graduate Teaching Assistant      
 - CS527: Database System for Data Science, Spring 2019.
-- CS550: Massive Data Mining, 2019 Spring.
-Undergraduate Teaching Assistant      
-    - CS213: Software Methodology, 2021 Spring.
-    - CS111: Introduction to Computer Science, 2020 Summer.
-    - CS439: Introduction to Data Science, Spring 2018.
-    - CS214: System Programming, 2017 Spring, 2017 Fall.
-    - CS112: Data Structures, 2016 Fall, 2018 Summer, 2018 Fall.
+- CS550: Massive Data Mining, 2019 Spring.       
+Undergraduate Teaching Assistant        
+- CS213: Software Methodology, 2021 Spring.
+- CS111: Introduction to Computer Science, 2020 Summer.
+- CS439: Introduction to Data Science, Spring 2018.
+- CS214: System Programming, 2017 Spring, 2017 Fall.
+- CS112: Data Structures, 2016 Fall, 2018 Summer, 2018 Fall.
 
 Awards and Activities
 ======
