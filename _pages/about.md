@@ -19,7 +19,6 @@ Education
 - M.S. in Computer Science, Stevens Institute of Technology, USA, 2014-2016
 - B.E. in Network Engineering, Hebei University of Science and Technology, China, 2010-2014             
 <br/>  
-
 <!--
 Publication
 ======
