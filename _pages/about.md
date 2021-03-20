@@ -47,7 +47,6 @@ Graduate Teaching Assistant
 
 
 Undergraduate Teaching Assistant        
-- CS213: Software Methodology, 2021 Spring.
 - CS111: Introduction to Computer Science, 2020 Summer.
 - CS439: Introduction to Data Science, Spring 2018.
 - CS214: System Programming, 2017 Spring, 2017 Fall.
