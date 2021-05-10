@@ -24,7 +24,7 @@ Academic Services
 ======
 Reviewer:       
 Journal: ACM Transactions on Information Systems (TOIS)      
-Conference: ICTIR, SIGIR, EMNLP.
+Conference: KDD, ICTIR, SIGIR, EMNLP.
 <br/>
 
 
