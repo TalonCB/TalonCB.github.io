@@ -7,6 +7,9 @@ author_profile: true
 (\* represents equal contribution)
 
 ## 2021     
+**Towards Personalized Fairness based on Causal Notion**       
+Yunqi Li, **Hanxiong Chen**, Shuyuan Xu, Yingqiang Ge, Yongfeng Zhang. In *In Proceedings of the 44nd International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR)*, 2021.       
+
 **Neural Collaborative Reasoning**       
 **Hanxiong Chen**, Shaoyun Shi, Yunqi Li, Yongfeng Zhang. In *Proceedings of the Web Conference (**WWW**)*, 2021.      
 
