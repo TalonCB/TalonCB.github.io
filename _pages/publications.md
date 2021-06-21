@@ -12,14 +12,16 @@ Yunqi Li, **Hanxiong Chen**, Shuyuan Xu, Yingqiang Ge, Yongfeng Zhang. In *Proce
 
 **Neural Collaborative Reasoning**       
 **Hanxiong Chen**, Shaoyun Shi, Yunqi Li, Yongfeng Zhang. In *Proceedings of the Web Conference (**WWW**)*, 2021.      
+[[paper]](https://arxiv.org/pdf/2005.08129.pdf) [[code]](https://github.com/rutgerswiselab/NLR)
 
 **User-oriented Fairness in Recommendation**      
-Yunqi Li, **Hanxiong Chen**, Zuohui Fu, Yingqiang Ge, Yongfeng Zhang. In *Proceedings of the Web Conference (**WWW**)*, 2021.
+Yunqi Li, **Hanxiong Chen**, Zuohui Fu, Yingqiang Ge, Yongfeng Zhang. In *Proceedings of the Web Conference (**WWW**)*, 2021.      
+[[paper]](https://arxiv.org/pdf/2104.10671.pdf)
 
 ## 2020
 **Neural Logic Reasoning**      
 Shaoyun Shi\*, **Hanxiong Chen\***, Weizhi Ma, Jiaxin Mao, Min Zhang and Yongfeng Zhang. In *Proceedings of the 29th ACM International Conference on Information and Knowledge Management (**CIKM**)*, 2020.    
-[[paper]](/files/Neural_Logic_Reasoning.pdf) [[code]](https://github.com/rutgerswiselab/NLR)
+[[paper]](/files/Neural_Logic_Reasoning.pdf) [[code]](https://github.com/rutgerswiselab/NCR)
 
 ## 2019
 **Generate Natural Language Explanations for Recommendation**      
