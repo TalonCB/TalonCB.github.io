@@ -15,7 +15,7 @@ My previous work includes how to generate natural languages for improving the ex
 
 Education
 ======
-- Ph.D. in Computer Science, Rutgers University, USA, 2016-Present
+- Ph.D. in Computer Science, Rutgers University, USA, 2016-2022
 - M.S. in Computer Science, Stevens Institute of Technology, USA, 2014-2016
 - B.E. in Network Engineering, Hebei University of Science and Technology, China, 2010-2014             
 <br/>  
