@@ -8,7 +8,8 @@ author_profile: true
 
 ## 2022     
 **Learn Basic Skills and Reuse: Modularized Adaptive Neural Architecture Search (MANAS)**       
-**Hanxiong Chen**, Yunqi Li, He Zhu, Yongfeng Zhang. In *Proceedings of the 31st ACM International Conference on Information and Knowledge Management (CIKM)*, 2022.     
+**Hanxiong Chen**, Yunqi Li, He Zhu, Yongfeng Zhang. In *Proceedings of the 31st ACM International Conference on Information and Knowledge Management (**CIKM**)*, 2022. 
+
 **Graph Collaborative Reasoning**       
 **Hanxiong Chen**, Yunqi Li, Shaoyun Shi, Shuchang Liu, He Zhu, Yongfeng Zhang. In *Proceedings of the 15th ACM International Conference on Web Search and Data Mining in  (**WSDM**)*, 2022.       
 
