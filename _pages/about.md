@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate in Computer Science Department at Rutgers University, supervised by [Prof. Yongfeng Zhang](http://yongfeng.me). My research interests include recommender systems, information retrieval, natural language processing (NLP), machine reasoning and deep learning related researches.
+I obtained my Ph.D. degree from Computer Science Department at Rutgers University. My advisor is [Prof. Yongfeng Zhang](http://yongfeng.me). My research interests during my Ph.D. include recommender systems, information retrieval, natural language processing (NLP), machine reasoning and deep learning related researches.
 
 My previous work includes how to generate natural languages for improving the explainability of recommender systems through end-to-end deep learning model. Currently, I lead a research which is to explore a way to combine symbolic logic reasoning with deep neural networks. My research experience covers the knowledge about natural language generation, personalized recommendation systems, graph neural network, logic reasoning, AutoML, fairness, etc.
 <br/>
