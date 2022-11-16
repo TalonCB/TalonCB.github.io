@@ -23,7 +23,7 @@ Education
 Academic Services
 ======
 Reviewer:       
-Journal: ACM Transactions on Information Systems (TOIS)      
+Journal: ACM Transactions on Information Systems (TOIS); IEEE Transactions on Computational Social Systems      
 Conference: KDD, ICTIR, SIGIR, EMNLP.
 <br/>
 
