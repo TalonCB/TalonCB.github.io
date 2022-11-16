@@ -11,7 +11,10 @@ author_profile: true
 **Hanxiong Chen**, Yunqi Li, He Zhu, Yongfeng Zhang. In *Proceedings of the 31st ACM International Conference on Information and Knowledge Management (**CIKM**)*, 2022. 
 
 **Graph Collaborative Reasoning**       
-**Hanxiong Chen**, Yunqi Li, Shaoyun Shi, Shuchang Liu, He Zhu, Yongfeng Zhang. In *Proceedings of the 15th ACM International Conference on Web Search and Data Mining in  (**WSDM**)*, 2022.       
+**Hanxiong Chen**, Yunqi Li, Shaoyun Shi, Shuchang Liu, He Zhu, Yongfeng Zhang. In *Proceedings of the 15th ACM International Conference on Web Search and Data Mining in  (**WSDM**)*, 2022.      
+
+**Causal factorization machine for robust recommendation**       
+Yunqi Li, **Hanxiong Chen**, Juntao Tan, Yongfeng Zhang. In *Proceedings of the 22nd ACM/IEEE Joint Conference on Digital Libraries, (**JCDL**)*, 2022.
 
 ## 2021     
 **Towards Personalized Fairness based on Causal Notion**       
